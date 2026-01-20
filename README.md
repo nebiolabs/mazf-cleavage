@@ -2,7 +2,7 @@
 
 ## Usage
 
-### Extracting randomized region fram Illumina reads
+### Extracting randomized region from Illumina reads
 
 ```
 gzip -cd example_input/input_reads.fastq.gz > example_input/input_reads.fastq
